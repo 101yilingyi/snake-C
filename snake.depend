@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1728117664 source:d:\stm\project\snake\snake\main.c
+1728129104 source:d:\stm\project\snake\snake\main.c
 	"snake.h"
 
-1728117573 d:\stm\project\snake\snake\snake.h
+1728128843 d:\stm\project\snake\snake\snake.h
 	<stdio.h>
 	<windows.h>
 	<conio.h>
